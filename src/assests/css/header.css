@@ -1,0 +1,13 @@
+center{
+    color:red;
+    background-color: bisque;
+    margin-bottom:1rem;
+    padding: 1em;
+}
+
+p{
+    color:firebrick;
+    background-color: darkseagreen;
+    margin: 1rem;
+    padding: 0.5em;
+}
